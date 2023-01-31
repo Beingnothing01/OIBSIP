@@ -7,11 +7,11 @@ Created a full stack Pizza Delivery Application using MERN stack.
 The application has two usertypes, customer and admin. Separate dashboard is created for both the usertypes with functionalities added as per the user requirements.
 
 ## Admin & User:
--Login
--Registration
--Authorization
--Email Verification
--Forgot Password
+ -Login
+ -Registration
+ -Authorization
+ -Email Verification
+ -Forgot Password
 
 ## User Dashboard:
 -Available Pizza Varieties
